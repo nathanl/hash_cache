@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = HashCache::VERSION
   spec.authors       = ["Nathan Long"]
   spec.email         = ["nathanmlong@gmail.com"]
-  spec.description   = %q{A small collection of hashes that cache}
-  spec.summary       = %q{A small collection of hashes that cache}
+  spec.description   = %q{Renamed - see 'caches' gem}
+  spec.summary       = %q{Renamed - see 'caches' gem}
   spec.homepage      = "https://github.com/nathanl/hash_cache"
   spec.license       = "MIT"
 
